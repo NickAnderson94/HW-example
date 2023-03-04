@@ -26,7 +26,7 @@ In answering each of the questions for the assignment please include:
 
 4.  `[15 pts]` **First, regress "SalePrice" on "LotArea", "OverallQual", "OverallCond" with the statsmodels library. Use the syntax below to replicate the output shown. Second, write a for loop that loops through each level of the categorical factor you chose in Q3, where each iteration of the for loop subsets your data for one group of the categorical variable at a time, and then fits the same regression model specified above k times, where k refers to the number of unique categories. On each iteration of your for loop, store the model.summary() information as a new element in a list object. Once your for loop is done running, print the list. There should be k regressions which you estimated. Does the effect of LotArea on SalePrice vary within the different levels of the categorical factor you chose? What is another, more common way to answer a question like this (i.e., a question about moderation or effect heterogeneity)?** *Hint: Compare the slope estimates and also account for the standard error.*
 
-    ![](images/paste-37B25969.png)
+    ![](images/image-836671284.png)
 
 5.  `[15 pts]` **Using the first dataset from question #1, for each categorical variable use a for loop to print a frequency and relative frequency for every variable. To make your output readable, for each variable you should print the following in this order, placing the variable name where you see blanks below.**
 
@@ -42,7 +42,7 @@ In answering each of the questions for the assignment please include:
 
     For example, for the MSZonig variable your output should look like this:
 
-    ![](images/paste-FC5B1912.png)
+    ![](images/image-2052142178.png)
 
 6.  `[10 pts]` **Do the same thing as number 5, but with a while loop this time.**
 
