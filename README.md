@@ -28,7 +28,7 @@ In answering each of the questions for the assignment please include:
 
     ![](images/image-836671284.png)
 
-5.  `[15 pts]` **Using the first dataset from question #1, for each categorical variable use a for loop to print a frequency and relative frequency for every variable. To make your output readable, for each variable you should print the following in this order, placing the variable name where you see blanks below.**
+5.  `[15 pts]` **Using the first dataset from question #1, for each categorical variable use a for loop to print a frequency and relative frequency table for every variable. To make your output readable, for each variable you should print the following in this order, placing the variable name where you see blanks below.**
 
     -   "Frequency table for \_\_\_\_\_\_ ============"
 
